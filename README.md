@@ -2,9 +2,15 @@
 
 Maintainer of [Agent Threat Rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) — an open MIT-licensed detection corpus for AI agent threats. Sigma for the agent surface.
 
-Founder of [Panguard AI](https://panguard.ai), the commercial product that operationalizes ATR for enterprises.
+Founder of [Panguard AI](https://panguard.ai) (Delaware C-Corp), the commercial product that operationalizes ATR for enterprises.
 
 Based in Taipei.
+
+[![ATR on npm](https://img.shields.io/npm/v/agent-threat-rules?label=agent-threat-rules%20%40npm&color=blue)](https://www.npmjs.com/package/agent-threat-rules)
+[![Downloads](https://img.shields.io/npm/dm/agent-threat-rules?label=npm%20downloads%2Fmonth)](https://www.npmjs.com/package/agent-threat-rules)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Agent-Threat-Rule/agent-threat-rules/blob/main/LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19178002.svg)](https://doi.org/10.5281/zenodo.19178002)
+[![GitHub stars](https://img.shields.io/github/stars/Agent-Threat-Rule/agent-threat-rules?style=social)](https://github.com/Agent-Threat-Rule/agent-threat-rules)
 
 ---
 
@@ -41,14 +47,16 @@ Honest caveat: coverage was partial. Two of four Copilot-generated fixtures matc
 
 ---
 
-## Numbers (CI-locked in `stats.json`, drift-checked on every commit)
+## Numbers
+
+CI-locked in `stats.json`, drift-checked on every commit:
 
 - 425 rules across 10 categories
 - 96,096 wild-scanned production skills across OpenClaw, ClawHub, Skills.sh, Hermes
 - 751 confirmed malicious skills in the corpus
 - SKILL.md detection: 100% recall, 100% precision, 0.20% false positive (498 real-world samples)
 - garak recall: 97.1%
-- MCP precision 99.6%, recall 62.7% (recall gap disclosed)
+- MCP precision 99.6%, recall 62.7% (recall gap honestly disclosed)
 
 ---
 
@@ -67,14 +75,8 @@ Honest caveat: coverage was partial. Two of four Copilot-generated fixtures matc
 
 - MIT license on rules, code, and docs
 - Zenodo DOI: [10.5281/zenodo.19178002](https://doi.org/10.5281/zenodo.19178002)
-- Registered trademarks: ATR®, ATR-Certified™ (governance and integrity protection)
-- Fiscal sponsor for the open standard: Open Source Collective Inc. (501(c)(3), EIN 81-1567737)
-
----
-
-## Speaking
-
-- HITCON 2026 — "AI Agent 時代的 Layer 0: 當 detection 規則該由誰來寫,以及為什麼這層應該由台灣定義" (submitted, decision pending)
+- Registered trademarks: ATR®, ATR-Certified™
+- Fiscal sponsor for the open standard: Open Source Collective Inc. (501(c)(3), EIN 81-1567737, confirmed 2026-05-19)
 
 ---
 
