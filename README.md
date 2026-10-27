@@ -76,7 +76,7 @@ CI-locked in `stats.json`, drift-checked on every commit:
 - MIT license on rules, code, and docs
 - Zenodo DOI: [10.5281/zenodo.19178002](https://doi.org/10.5281/zenodo.19178002)
 - Registered trademarks: ATR®, ATR-Certified™
-- Fiscal sponsor for the open standard: Open Source Collective Inc. (501(c)(3), EIN 81-1567737, confirmed 2026-05-19)
+- Fiscal sponsor for the open standard: Open Source Collective (EIN 82-2037583), a US 501(c)(6) non-profit, confirmed 2026-05-19
 
 ---
 
